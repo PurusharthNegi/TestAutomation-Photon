@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+<configuration>
+<theme>standard</theme>
+<encoding>UTF-8</encoding>
+<documentTitle>Destiny Discover</documentTitle>
+<reportName>ExtentReport-Destiny Discover</reportName>
+<reportName>iPhone 11 Pro Max</reportName>
+
+<dateFormat>yyyy-MM-dd</dateFormat>
+<timeFormat>HH:mm:ss</timeFormat>
+<protocol>https</protocol>
+<reportName>ExtentReport-Destiny Discover</reportName>
+
+</configuration>
+</extentreports>
